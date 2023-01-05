@@ -1,0 +1,3 @@
+﻿  Application.cpp
+D:\George\Projects\C++ Projects\Ratel\Sandbox\src\Application.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Sandbox.vcxproj -> D:\George\Projects\C++ Projects\Ratel\bin\Debug-x64\Sandbox\Sandbox.exe
